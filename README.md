@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, it's Irene</h1>
-<h3 align="center">A student graduated from web development bootcamp</h3>
 
-- 🌱 I’m currently learning **Javascript**
+<h3>About me</h3>
+<p>I’m currently learning **Javascript**</p>
 
 - 📫 How to reach me **ailinchenirene@gmail.com**
 
