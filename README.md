@@ -3,7 +3,10 @@
 <h3>About me</h3>
 <p>I'm a graduated student from Le Wagon 9-week bootcamp and build 2 websites with other 3 teammates. I have passion in developing new skills. Currently learning Javascript. Currently developing a personal project which contain web development, game and art.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact</h3>
+<ul>
+  <li>Email : ailinchenirene@gmail.com</li>
+</ul>
 <p align="left">
 </p>
 
