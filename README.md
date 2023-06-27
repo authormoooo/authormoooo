@@ -1,9 +1,7 @@
 <h1 align="center">Bonjour, it's Irene</h1>
 
 <h3>About me</h3>
-<p>I’m currently learning **Javascript**</p>
-
-- 📫 How to reach me **ailinchenirene@gmail.com**
+<p>I'm a graduated student from Le Wagon 9-week bootcamp and build 2 websites with other 3 teammates. I have passion in developing new skills. Currently learning Javascript. Currently developing a personal project which contain web development, game and art.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
